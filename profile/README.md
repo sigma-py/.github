@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/sigma-py/"><img alt="sigma" src="../logo/sigma-logo.svg" width="20%"></a>
+  <a href="https://github.com/sigma-py/"><img alt="sigma" src="https://raw.githubusercontent.com/sigma-py/.github/main/logo/sigma-logo.svg" width="20%"></a>
   <p align="center">Numerical software for professionals.</p>
 </p>
 
