@@ -7,7 +7,7 @@ Sigma is a collection of Python libraries and command-line tools for
 mathematical applications.
 
 Full access to all Sigma functionality requires a license. Licenses for
-_personal_ or _academic_ use can be purchased
+_personal use_ or use in an _academic institution_ can be purchased
 [here](https://buy.stripe.com/aEUg1H38OgDw5qMfZ3).
 You'll receive a confirmation email with a license key. Install the key with
 
